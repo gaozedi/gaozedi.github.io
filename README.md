@@ -1,11 +1,17 @@
 ## Welcome to Zedi's Portal
 
-You can use the [editor on GitHub](https://github.com/gaozedi/gaozedi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Zedi's Agenda
 
+#### Upcoming Meetings
 
-### Contact
+- 26th Nov afternoon with Franziska Beran   TBC
+- 26th Nov afternoon with cluster guy 2pm
+- Potential supervisor meeting after 24th Nov
+- 29th Nov CPCC lab meeting PRESENTATION
+- 6th-8 DEC Birmingham BSPP 
+
+#### Contact
 
 - **Phone** +44(0) 7902923616 (also WhatsApp)
 - **Email** gaozedi@gmail.com (personal) or z.gao2@herts.ac.uk (uni)
